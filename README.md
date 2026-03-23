@@ -1,12 +1,24 @@
 <h1 align="center">Hi, I'm Zahoor Ishfaq 👋</h1>
 
 <p align="center">
-  <b>Data Analyst & Aspiring Data Engineer | Procurement Finance | Power BI · Python · SQL · Excel</b><br/>
-  📍 Jeddah, KSA &nbsp;|&nbsp; 📧 Zahoor.ishfaaq@gmail.com &nbsp;|&nbsp; 📞 +966 548 087 706
+  <b>Data Analyst & Aspiring Data Engineer | Power BI · Python · SQL · Excel</b><br/>
+  📍 Jeddah, KSA &nbsp;|&nbsp; 📧 zahoor.ishfaaq@gmail.com &nbsp;|&nbsp; 📞 +966 548 087 706
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Engineer+in+Progress;Power+BI+Dashboard+Developer;Python+%7C+Pandas+%7C+Data+Automation;Procurement+Finance+%26+Cost+Analysis;KPI+Tracking+%26+Process+Optimization" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/zahoor-ishfaq">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://zahoor-ishfaq.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:zahoor.ishfaaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Data+Engineer+in+Progress;Power+BI+%7C+Python+%7C+SQL;Google+Data+Analytics+Certified;KPI+Tracking+%26+Cost+Analysis;Turning+Raw+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,12 +26,12 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Currently working as **Cost Analyst** at Loloat Al Khair Transport, Jeddah
-- 📊 Passionate about transforming raw data into meaningful insights using **Python, Power BI & Excel**
-- 🌱 Expanding skills in **Data Engineering** — pipelines, data modeling, and workflow automation
-- 💡 Experienced in **procurement finance, cost monitoring, variance analysis & KPI reporting**
-- 🛠️ I build dashboards, automate data workflows, and support financial decision-making with data
-- 💬 Ask me about **Power BI, Excel automation, Python (Pandas), or SAP procurement workflows**
-- ⚡ Fun fact: I use Python to eliminate repetitive tasks so analysts can spend time on actual analysis!
+- 🎓 Computer Science graduate with hands-on experience in **Excel, SQL, and Power BI**
+- 📜 Completed **Google Data Analytics** & **Google Advanced Data Analytics** Certificates
+- 🌱 Expanding into **Data Engineering** — pipelines, data modeling, and workflow automation
+- 🎯 Long-term goal: advancing into **Data Science & Machine Learning**
+- 💬 Ask me about **Power BI dashboards, SQL queries, Python (Pandas), or prompt engineering**
+- ⚡ Fun fact: I automate the boring stuff with Python so analysts can focus on actual insights!
 
 ---
 
@@ -28,10 +40,11 @@
 ### 📊 Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🗄️ Data Engineering & Processing
+### 🗄️ Data Engineering & Querying
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -49,39 +62,38 @@
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
 | Jul 2025 – Present | 🟢 Cost Analyst | Loloat Al Khair Transport | Jeddah, KSA |
-| Oct 2024 – Apr 2025 | Administrative Assistant (Data & Reporting) | Ezeesol Technology | Pakistan |
-| Dec 2023 – Aug 2024 | Client Support & Data Coordinator | 24/7 Consultancy | Pakistan |
+| Oct 2024 – Apr 2025 | Data Analyst (Contract) | Tech Company (Remote) | Azad Kashmir, PK |
+| Dec 2023 – Aug 2024 | Client Support & Data Coordinator | 24/7 Consultancy (SMC-PVT) | Rawalpindi, PK |
 
 ### 🟢 Cost Analyst — Loloat Al Khair Transport *(Jul 2025 – Present)*
-- 📈 Utilize Excel & Power BI to track operational costs and support financial reporting
-- 📋 Prepare data-driven reports for management to monitor operational performance and KPIs
+- 📈 Track and analyze operational costs using Excel & Power BI to support financial reporting
+- 📋 Prepare data-driven reports for management to monitor KPIs and cost performance
 - ✅ Maintain and validate vendor/client data ensuring accuracy and compliance
-- 🔄 Coordinate documentation workflows, improving process efficiency and data accessibility
-- ⏱️ Monitor cost timelines and flag variances to support budget control
+- 🔄 Coordinate documentation workflows improving process efficiency and data accessibility
+- ⚠️ Monitor cost variances and flag deviations to support budget control
 
-### 🔷 Administrative Assistant — Ezeesol Technology *(Oct 2024 – Apr 2025)*
-- 🧮 Leveraged Excel & Microsoft 365 for data entry, reporting, and document tracking
-- 📂 Maintained structured datasets to support reporting accuracy and operational visibility
-- 🔗 Coordinated internal communication and scheduling to streamline workflows
-- ✅ Ensured data validation and consistency across administrative records
+### 🔷 Data Analyst (Contract, Remote) *(Oct 2024 – Apr 2025)*
+- 🧮 Leveraged **SQL & Power BI** to extract, clean, and analyze business data
+- 📊 Developed interactive reports and dashboards providing actionable insights for decision-making
+- 🔗 Collaborated remotely with stakeholders to align data outputs with business needs
 
 ### 🔷 Client Support & Data Coordinator — 24/7 Consultancy *(Dec 2023 – Aug 2024)*
-- 📊 Managed and validated client datasets ensuring accuracy, completeness, and documentation
+- 📂 Managed and validated client datasets ensuring accuracy, completeness, and documentation
 - 🔄 Coordinated data flow between stakeholders to support timely service delivery
-- 📋 Supported reporting and administrative processes through structured data handling
+- 📋 Supported reporting processes through structured data handling
 
 ---
 
 ## 🧠 Core Competencies
 
 ```text
-📦 Procurement Data Analysis & Cost Monitoring
-📊 Financial Reporting  →  Budget · Forecast · Actuals
-📉 Variance Analysis    →  Price · Cost · Budget vs Actual
+📊 Data Analysis & Visualization    →  Power BI · Excel · Python
+🗄️ Data Querying & Transformation   →  SQL · Power Query · DAX
+📦 Cost Monitoring & Variance Analysis
 🎯 KPI Development & Performance Tracking
-🏗️ Data Pipeline Thinking & ETL Workflow Design
-🔍 Data Validation, Cleansing & Accuracy Control
-🤝 Cross-functional Stakeholder Coordination
+🏗️ ETL Workflow Design & Automation
+✅ Data Validation, Cleansing & Accuracy Control
+🤝 Storytelling with Data & Stakeholder Communication
 ⚙️ Process Improvement & Workflow Optimization
 ```
 
@@ -89,41 +101,41 @@
 
 ## 🚀 Projects
 
-### 📊 Excel Cost & Operations Dashboards
-> Built multi-layer Excel dashboards using Pivot Tables, Power Query & advanced formulas to analyze operational trends and support management decision-making in real time.
+### 📊 Power BI KPI & Cost Dashboards
+> Designed interactive Power BI dashboards with DAX measures for KPI visualization, budget vs actual tracking, and cost performance monitoring.
 
-### 📈 Power BI KPI Tracker
-> Designed interactive Power BI dashboards with DAX measures for KPI visualization, budget vs actual tracking, and performance monitoring across departments.
+### 🧮 Excel Operations & Reporting Dashboards
+> Built multi-layer Excel dashboards using Pivot Tables, Power Query & advanced formulas to analyze trends and support management decisions.
 
-### 🐍 Python Data Automation (Pandas)
-> Automated repetitive data extraction, transformation, and validation workflows using Python (Pandas), significantly reducing manual effort in monthly reporting cycles.
+### 🐍 Python Data Automation (Pandas + Jupyter)
+> Automated data extraction, transformation, and validation pipelines using Python and Pandas, reducing manual effort in monthly reporting cycles.
+
+---
+
+## 📜 Certifications
+
+- 🏅 Google Data Analytics Certificate
+- 🏅 Google Advanced Data Analytics Certificate
+- 🏅 Power BI Essential Training (2024)
+- 🏅 Learning Power BI Desktop
+- 🏅 AI For Everyone
+- 🏅 Prompt Engineering: How to Talk to the AIs
+- 🏅 Public Speaking — Toastmasters International
 
 ---
 
 ## 🎓 Education
 
-🎓 **Master in Computer Sciences (MCS)**
-*University of Poonch, Rawalakot, Pakistan — 2023*
+🎓 **Bachelor of Science in Computer Science**
+*University of Poonch, Rawalakot, Pakistan — 2020 to 2023*
 
 ---
 
 ## 🌐 Languages
 
-![English](https://img.shields.io/badge/English-Professional_Proficiency-0077B5?style=flat-square&logo=google-translate&logoColor=white)
-![Urdu](https://img.shields.io/badge/Urdu-Native_Speaker-2ECC71?style=flat-square&logo=google-translate&logoColor=white)
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:Zahoor.ishfaaq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/zahoor-ishfaq" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+![English](https://img.shields.io/badge/English-Professional_Working-0077B5?style=flat-square&logo=google-translate&logoColor=white)
+![Urdu](https://img.shields.io/badge/Urdu-Native-2ECC71?style=flat-square&logo=google-translate&logoColor=white)
+![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=flat-square&logo=google-translate&logoColor=white)
 
 ---
 
