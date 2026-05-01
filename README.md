@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zahoor Ishfaq 👋</h1>
 
 <p align="center">
-  <b>Data Analyst & Aspiring Data Engineer | Power BI · Python · SQL · Excel</b><br/>
+  <b>Data Analyst & Data Engineer | Power BI · Python · SQL · Excel</b><br/>
   📍 Jeddah, KSA &nbsp;|&nbsp; 📧 zahoor.ishfaaq@gmail.com &nbsp;|&nbsp; 📞 +966 548 087 706
 </p>
 
