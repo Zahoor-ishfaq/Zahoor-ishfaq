@@ -2,7 +2,7 @@
 
 # Zahoor Ishfaq
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Software+Developer+%F0%9F%92%BB;Building+LLM+Systems+%26+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Software+Developer+%F0%9F%92%BB;Building+Agents)](https://git.io/typing-svg)
 
 <p>
   Computer Science graduate building at the intersection of <strong>LLMs, data pipelines, and intelligent automation</strong>.<br/>
