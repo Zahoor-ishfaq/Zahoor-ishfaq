@@ -2,7 +2,7 @@
 
 # Zahoor Ishfaq
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Software+Developer+%F0%9F%92%BB;Building+LLM+Systems+%26+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Software+Developer+%F0%9F%92%BB;Building+LLM+Systems+%26+Agents)](https://git.io/typing-svg)
 
 <p>
   Computer Science graduate building at the intersection of <strong>LLMs, data pipelines, and intelligent automation</strong>.<br/>
@@ -22,7 +22,6 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1A1A2E?style=flat-square&logo=graphql&logoColor=4F8EF7)
-![LangSmith](https://img.shields.io/badge/LangSmith-FF6F00?style=flat-square&logo=openai&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Anthropic_Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -38,7 +37,6 @@
 ![FAISS](https://img.shields.io/badge/FAISS-4479A1?style=flat-square&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00ADB5?style=flat-square&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-5C2D91?style=flat-square&logo=weaviate&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Semantic Search](https://img.shields.io/badge/Semantic_Search-4F8EF7?style=flat-square&logo=elasticsearch&logoColor=white)
 
@@ -55,22 +53,6 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)
-
----
-
-## 🛠️ Data Engineering & ETL
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Azure Blob](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -107,23 +89,10 @@
 | **DevOps** | Git · GitHub · GitHub Actions · Docker |
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahoor-ishfaq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahoor-ishfaq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=zahoor-ishfaq&theme=tokyonight&hide_border=true&background=0D1117&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7)
-
-</div>
-
 ---
 
 <div align="center">
 
-*Always building · Always learning*
+*Always learning*
 
 </div>
