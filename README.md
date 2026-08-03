@@ -2,97 +2,225 @@
 
 # Zahoor Ishfaq
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Software+Developer+%F0%9F%92%BB;Building+Agents)](https://git.io/typing-svg)
+### Building AI Solutions · Software Solutions · Data & Automation
 
-<p>
-  Computer Science graduate building at the intersection of <strong>LLMs, data pipelines, and intelligent automation</strong>.<br/>
-  Currently focused on agentic AI systems, RAG pipelines, and multi-agent orchestration.
-</p>
+I build practical software with Python — from grounded RAG systems and AI-assisted
+workflows to backend APIs, Odoo modules, automation, and cloud-deployed applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahoor-ishfaq)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zahoor-ishfaq-portfolio.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahoor.ishfaaq@gmail.com)
-[![Location](https://img.shields.io/badge/Jeddah%2C_KSA-1A1A2E?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahoor_Ishfaq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahoor-ishfaq/)
+[![GitHub](https://img.shields.io/badge/GitHub-Zahoor--ishfaq-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zahoor-ishfaq)
 
 </div>
 
 ---
 
-## 🤖 AI Engineering
+## What I Build
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1A1A2E?style=flat-square&logo=graphql&logoColor=4F8EF7)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude API](https://img.shields.io/badge/Anthropic_Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-5C2D91?style=flat-square&logo=azure-devops&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Function Calling](https://img.shields.io/badge/Function_Calling-00ADB5?style=flat-square&logo=python&logoColor=white)
-![Tool Use](https://img.shields.io/badge/Tool_Use-E34F26?style=flat-square&logo=python&logoColor=white)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Vector Stores & Embeddings**
+### AI Solutions
 
-![FAISS](https://img.shields.io/badge/FAISS-4479A1?style=flat-square&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-00ADB5?style=flat-square&logo=pinecone&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-4F8EF7?style=flat-square&logo=elasticsearch&logoColor=white)
+RAG systems, agentic workflows, document intelligence, semantic search, LLM applications, and human-in-the-loop AI systems.
+
+</td>
+<td width="33%" valign="top">
+
+### Software Solutions
+
+Python backend services, REST APIs, web applications, automation tools, integrations, and production-oriented systems.
+
+</td>
+<td width="33%" valign="top">
+
+### Business Systems
+
+Odoo modules, operational workflows, analytics, data pipelines, dashboards, and business process automation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Data Analytics
+# Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Wasl
+
+**Agentic Logistics Control Tower**
+
+Agentic RAG system for logistics that investigates shipment exceptions, retrieves operational policies, drafts corrective actions, and holds them for human approval.
+
+**Built with**
+
+`LangGraph` `FastAPI` `React` `PostgreSQL` `pgvector`  
+`Redis` `Claude` `Docker` `AWS` `Terraform`
+
+**Engineering highlights**
+
+- Grounded RAG with source citations
+- PostgreSQL + pgvector semantic retrieval
+- Multi-policy retrieval and applicability controls
+- LangGraph investigation workflow
+- Human approval boundary
+- Prompt-injection defenses
+- JWT authentication and rate limiting
+- AWS ECS Fargate + RDS + CloudFront
+- Terraform infrastructure
+- GitHub Actions CI
+- CloudWatch monitoring
+- 120 passing backend tests
+
+[View Repository →](https://github.com/Zahoor-ishfaq/wasl-logistics-agent)
+
+</td>
+
+<td width="50%" valign="top">
+
+## Helpdesk Pro
+
+**Open-source Helpdesk for Odoo Community**
+
+A complete helpdesk system built for Odoo Community with SLA management, customer portal, CSAT ratings, email-to-ticket, ticket merging, canned responses, and analytics.
+
+**Built with**
+
+`Python` `Odoo` `PostgreSQL` `XML` `JavaScript`
+
+**Highlights**
+
+- Published on the Odoo Apps Store
+- **14+ downloads**
+- SLA policies based on working calendars
+- Customer self-service portal
+- CSAT rating workflow
+- Email-to-ticket support
+- Ticket analytics
+- Arabic and English support
+- Public source, tests, and CI
+
+[GitHub →](https://github.com/Zahoor-ishfaq/odoo-helpdesk-pro) ·
+[Odoo Apps →](https://apps.odoo.com/apps/modules/19.0/helpdesk_community_pro)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## Helpdesk AI Copilot
+
+**AI Assistance for Odoo Helpdesk**
+
+An AI extension for Helpdesk Pro that brings Claude-powered ticket understanding directly into the support workflow while keeping the human agent in control.
+
+**Built with**
+
+`Python` `Odoo` `Anthropic Claude` `LLM APIs`
+
+**Capabilities**
+
+- Automatic ticket triage
+- Priority and team suggestions
+- Sentiment detection
+- AI-assisted reply drafting
+- Confidence-based recommendations
+- Human Accept / Dismiss workflow
+- Arabic interface support
+
+[GitHub →](https://github.com/Zahoor-ishfaq/odoo-helpdesk-pro-ai) ·
+[Odoo Apps →](https://apps.odoo.com/apps/modules/19.0/helpdesk_community_pro_ai)
+
+</td>
+
+<td width="50%" valign="top">
+
+## More Projects
+
+I also work on projects around:
+
+- AI document processing
+- Computer vision
+- Data analytics
+- Python automation
+- Odoo business applications
+- Backend and API development
+- Data pipelines
+- Operational AI systems
+
+Explore the rest of my work on
+[GitHub →](https://github.com/Zahoor-ishfaq?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+# Technologies
+
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_Workflows-333333?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+`RAG` `LLMs` `Embeddings` `Semantic Search` `Vector Search` `Agents`
+
+### Backend & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## 💻 Software Development & Backend
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Odoo ERP](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+`pgvector` `SQLAlchemy` `REST APIs` `Pandas`
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+`ECS Fargate` `RDS` `S3` `CloudFront` `ECR` `CloudWatch`
+
+### Applications & Analytics
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+`Automation` `Data Analysis` `ERP Development` `Dashboards`
 
 ---
 
-## 🛠 Tools Reference
+## Currently Building & Learning
 
-| Category | Tools |
-|---|---|
-| **AI & LLM** | LangChain · LangGraph · LangSmith · OpenAI API · Claude API · Hugging Face Hub |
-| **Vector Stores** | FAISS · ChromaDB · Pinecone · Weaviate · Sentence Transformers |
-| **Analytics & Reporting** | Power BI · Excel · DAX · Power Query · Jupyter · Streamlit · Gradio |
-| **ETL & Pipelines** | Apache Airflow · PySpark · Databricks · Azure Data Factory · Azure Synapse · dbt |
-| **Backend & APIs** | Python · FastAPI · REST APIs · Pydantic · Postman · Async Python |
-| **Cloud** | Microsoft Azure · Azure OpenAI · Azure Synapse · Azure Blob Storage |
-| **Frontend** | React · Streamlit · Gradio · Power BI Embedded |
-| **Databases** | PostgreSQL · MySQL · SQLite · Vector Databases · Azure SQL |
-| **ERP** | Odoo (Custom Modules · ORM · QWeb) · SharePoint · Power Automate |
-| **DevOps** | Git · GitHub · GitHub Actions · Docker |
+I'm currently focused on going deeper into:
 
----
+**Production RAG** · **Agentic Systems** · **AI Observability** ·
+**Cloud Architecture** · **Computer Vision** · **Reliable AI Evaluation**
+
 ---
 
 <div align="center">
 
-*Always learning*
+### Let's Connect
+
+I'm interested in building practical AI, Python, backend, and business software solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahoor-ishfaq/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zahoor-ishfaq)
 
 </div>
