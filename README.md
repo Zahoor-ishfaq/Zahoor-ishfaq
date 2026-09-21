@@ -44,8 +44,6 @@ Odoo modules, operational workflows, analytics, data pipelines, dashboards, and 
 
 ---
 
-# Featured Work
-
 <table>
 <tr>
 <td colspan="2" valign="top">
