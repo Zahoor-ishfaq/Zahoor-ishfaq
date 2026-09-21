@@ -48,6 +48,38 @@ Odoo modules, operational workflows, analytics, data pipelines, dashboards, and 
 
 <table>
 <tr>
+<td width="100%" valign="top">
+
+## DrawFlow
+
+**Whiteboard Animation Studio — Open Source, Runs on Your Machine**
+
+A local-first whiteboard animation tool where a photographed hand draws pictures and handwriting on a board while a narrator speaks and the camera glides from shot to shot. Add text, 5,000+ open-licensed pictures, your own artwork, music, a recorded or AI voice — and export MP4, WebM or GIF without anything leaving your computer.
+
+**Built with**
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Electron`  
+`WebCodecs` `FFmpeg.wasm` `Playwright` `Claude` `OpenAI` `Gemini` `Groq`
+
+**Highlights**
+
+- Real whiteboard drawing — SVG artwork drawn stroke by stroke by a photographed hand
+- 5,000+ open-licensed pictures with synonym-aware search (Tabler, Open Peeps, OpenMoji, and more)
+- Full timeline — element track, three audio lanes, markers, scenes with transitions, storyboard
+- Camera — infinite canvas with a 16:9 / 9:16 / 1:1 viewport that glides between shots
+- AI narration and scene generation — bring your own key (Claude, OpenAI, Groq, Gemini)
+- Export up to 4K — MP4, WebM, GIF via hardware-accelerated browser encoders
+- CLI for headless rendering of `.drawflow.json` projects
+- Plugin architecture for effects, asset providers, exporters, and panels
+- Local-first — no server, no account; everything stays in your browser or files
+- Windows desktop app via Electron
+
+[View Repository →](https://github.com/Zahoor-ishfaq/drawflow)
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ## Wasl
