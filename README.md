@@ -127,7 +127,7 @@ A complete helpdesk system built for Odoo Community with SLA management, custome
 **Highlights**
 
 - Published on the Odoo Apps Store
-- **14+ downloads**
+- **100+ downloads**
 - SLA policies based on working calendars
 - Customer self-service portal
 - CSAT rating workflow
