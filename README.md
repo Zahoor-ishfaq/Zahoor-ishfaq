@@ -48,31 +48,33 @@ Odoo modules, operational workflows, analytics, data pipelines, dashboards, and 
 
 <table>
 <tr>
-<td width="100%" valign="top">
+<td colspan="2" valign="top">
 
-## DrawFlow
+## DrawFlow &nbsp;·&nbsp; Whiteboard Animation Studio
 
-**Whiteboard Animation Studio — Open Source, Runs on Your Machine**
-
-A local-first whiteboard animation tool where a photographed hand draws pictures and handwriting on a board while a narrator speaks and the camera glides from shot to shot. Add text, 5,000+ open-licensed pictures, your own artwork, music, a recorded or AI voice — and export MP4, WebM or GIF without anything leaving your computer.
+> Open-source desktop app — a photographed hand draws pictures and text on a whiteboard while a narrator speaks. Add artwork, music, AI voice — export MP4, WebM or GIF, everything runs on your machine.
 
 **Built with**
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Electron`  
-`WebCodecs` `FFmpeg.wasm` `Playwright` `Claude` `OpenAI` `Gemini` `Groq`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+`FFmpeg.wasm` `WebCodecs` `Zustand` `Playwright` `OpenAI` `Gemini` `Groq`
 
 **Highlights**
 
-- Real whiteboard drawing — SVG artwork drawn stroke by stroke by a photographed hand
-- 5,000+ open-licensed pictures with synonym-aware search (Tabler, Open Peeps, OpenMoji, and more)
-- Full timeline — element track, three audio lanes, markers, scenes with transitions, storyboard
-- Camera — infinite canvas with a 16:9 / 9:16 / 1:1 viewport that glides between shots
-- AI narration and scene generation — bring your own key (Claude, OpenAI, Groq, Gemini)
-- Export up to 4K — MP4, WebM, GIF via hardware-accelerated browser encoders
-- CLI for headless rendering of `.drawflow.json` projects
-- Plugin architecture for effects, asset providers, exporters, and panels
-- Local-first — no server, no account; everything stays in your browser or files
-- Windows desktop app via Electron
+- SVG artwork drawn stroke-by-stroke by a photographed hand; handwriting fonts write letter-by-letter
+- 5,000+ open-licensed pictures (Tabler, Open Peeps, OpenMoji, and more) with synonym-aware search
+- Full timeline — element track, three audio lanes, scenes with transitions, film-strip storyboard
+- Infinite canvas with 16:9 / 9:16 / 1:1 camera that glides between shots
+- AI narration and scene generation — bring your own key (Claude, OpenAI, Groq, Gemini); keys stay in your browser
+- Export up to 4K via hardware-accelerated browser encoders; CLI for headless rendering
+- Plugin architecture for effects, asset providers and exporters; Windows installer via Electron
+- **Local-first** — no server, no account; projects and settings stay on your machine
 
 [View Repository →](https://github.com/Zahoor-ishfaq/drawflow)
 
@@ -90,7 +92,7 @@ Agentic RAG system for logistics that investigates shipment exceptions, retrieve
 
 **Built with**
 
-`LangGraph` `FastAPI` `React` `PostgreSQL` `pgvector`  
+`LangGraph` `FastAPI` `React` `PostgreSQL` `pgvector`
 `Redis` `Claude` `Docker` `AWS` `Terraform`
 
 **Engineering highlights**
